@@ -610,7 +610,7 @@ const tokens = {
     symbol: 'ETH',
     address: {
       56: '0x2170ed0880ac9a755fd29b2688956bd959f933f8',
-      97: '',
+      97: '0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378',
     },
     decimals: 18,
     projectLink: 'https://ethereum.org/en/',
@@ -682,7 +682,7 @@ const tokens = {
     symbol: 'DAI',
     address: {
       56: '0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3',
-      97: '',
+      97: '0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867',
     },
     decimals: 18,
     projectLink: 'http://www.makerdao.com/',
